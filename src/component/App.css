@@ -1,0 +1,17 @@
+.nav-tabs{
+    border: 0px;
+}
+
+.active{
+    
+}
+.nav-tabs .nav-link.active{
+    color: saddlebrown;
+    font-weight: bold;
+    border: 0px;
+}
+
+.nav-tabs .nav-link{
+    font-weight: bold;
+    color: grey;
+}

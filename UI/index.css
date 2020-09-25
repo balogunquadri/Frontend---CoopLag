@@ -1,0 +1,70 @@
+
+body{
+    background-color: cornsilk;
+    overflow: hidden;
+}
+
+.fa-user-circle:hover{
+
+    color: cyan;
+    cursor: pointer;
+}
+
+.fa{
+    -webkit-transition: color 1s; /* Safari */
+    transition: color 1s;
+}
+
+.fa:hover{
+    cursor: pointer;
+    color: cyan;
+}
+
+#live-btn, #shop-btn, #visitor-btn{
+    cursor: pointer;
+}
+   
+.small-screen-home-links{
+    color: black;
+}
+
+a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+a{
+    color: black;
+}
+
+.small-screen-home-links:hover{
+    border-bottom: 2px solid #6a5acd;
+}
+
+.list-icon{
+    padding: 5px 3px 0px 3px;
+    text-align: center;
+}
+
+
+.scroll{
+    scrollbar-width: thin;
+    -webkit-scrollbar-width: thin;
+    
+}
+
+
+.bx-wrapper{
+	height: 400px;
+}
+
+.slider-img{
+	width: 100%; 
+	top: 30px; 
+	height: 400px;
+}
+
+
+
+
+  
